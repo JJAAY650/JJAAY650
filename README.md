@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## My goal
+I want to use GitHub for my engineering projects.
 <!--
 **JJAAY650/JJAAY650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
